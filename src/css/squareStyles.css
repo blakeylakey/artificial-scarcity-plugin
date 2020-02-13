@@ -1,0 +1,39 @@
+.as-square-container {
+    width: 9.5rem;
+    border-radius: 0.5rem;
+    display: inline-block;
+}
+
+.as-square-value {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.as-square-desc {
+    font-size: 0.9rem;
+    font-weight: normal;
+    margin: 0;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+
+.as-bnw {
+    background-color: #2D2D2D;
+}
+
+.as-color-days {
+    background-color: #FFDD00;
+}
+
+.as-color-hours {
+    background-color: #01BEFE;
+}
+
+.as-color-minutes {
+    background-color: #FF7D00;
+}
+
+.as-color-seconds {
+    background-color: #FF006D;
+}
